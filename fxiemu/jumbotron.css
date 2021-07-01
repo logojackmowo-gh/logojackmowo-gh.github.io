@@ -1,0 +1,17 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+@media h {
+    @media h {
+        body {
+            padding-top: 3.5rem;
+        }
+    }
+}
+
+.jumbotron {
+    height: 100%;
+    width: 100%;
+    background-position: center,center;
+    background-size: cover;
+    background-image: url("images/bg/bg2.jpg");
+    background-color: rgba(1, 104, 136, 0.67);
+}
